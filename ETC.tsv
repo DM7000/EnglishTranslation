@@ -14104,7 +14104,7 @@ ETC_20150803_014105	EffectNPC:Local:F_burstup019_smoke:1:BOT/NPCDead/Notice:NOTI
 ETC_20150803_014106	EffectNPC:Local:F_burstup019_smoke:1:BOT/NPCDead/Notice:NOTICE_Dm_!:You've failed to collect the petrification powder!:5
 ETC_20150803_014107	DoTimeAction:Collecting:1:WEEDING:None
 ETC_20150803_014108	Property:1/PropertyAdd:1/GiveItem:UNDER67_MQ4_ITEM01:1/NPCKill/Notice:NOTICE_Dm_GetItem:Obtained bushes:3/EffectNPC:Local:F_pc_making_finish_white:1:TOP
-ETC_20150803_014109	Give a present to Scout Master secretly without being caught
+ETC_20150803_014109	Give a present to the Scout Master secretly without being caught
 ETC_20150803_014110	Give the demons the slip by using temporary flare
 ETC_20150803_014111	Collect Red Leaves
 ETC_20150803_014112	Lure the demons by setting leaf bombs
@@ -14125,7 +14125,7 @@ ETC_20150803_014126	You've obtained the keepstakes from the monsters!
 ETC_20150803_014127	Defend against the curse of the terminal!
 ETC_20150803_014128	Putting it secretly into the pocket
 ETC_20150803_014129	You've put it secretly into the pocket of Scout Master
-ETC_20150803_014130	Since Scout Master suspects you,{nl}try again little later!
+ETC_20150803_014130	The Scout Master suspects you,{nl}try again little later!
 ETC_20150803_014131	Try from the back of Scout Master!
 ETC_20150803_014132	What are you doing?
 ETC_20150803_014133	What the hell now?
@@ -14176,7 +14176,7 @@ ETC_20150804_014177	The light device at loading place of manufacturing factory h
 ETC_20150804_014178	Because of the unstable structure of the loading place at Mausoleum{nl}the collapse occured at the manufacturing company
 ETC_20150804_014179	Wendigo appeared from the space!
 ETC_20150804_014180	You've obtained HP Potion(Big)!
-ETC_20150804_014181	You either don't have a socket or using all of them
+ETC_20150804_014181	You either don't have a socket or are using all of them
 ETC_20150804_014182	{#050505}{s18}{b}When equipped into a socket
 ETC_20150804_014183	The light device at Prayer Hall
 ETC_20150804_014184	TypeFManager
